@@ -1,22 +1,19 @@
+### Hi, I'm Fatima Patricia 👋
+
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/pgmascarini/pgmascarini/blob/main/README.md)
 
 
-## Hi there 👋      [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/DanielDW23/DanielDW23/blob/main/README.md)
+#### Full-Stack Developer
 
-I am a Full Stack Web Developer, passionate about technology and in continuous training, this progresses very quickly... :rocket:   
-Welcome to my GitHub profile. 
-<br><br>
-  
-- 👉 I am currently doing a Full Stack Web Development Bootcamp, learning new things every day... 📖 🖥️ 
 
-- 👨‍💻 I want to work as a Web Developer, to put my knowledge into practice and continue training.
+I am a highly resilient, adaptable, creative Full-Stack Developer with versatile skills and I am always determined to seek new challenges and growth opportunities. I also have years of experience leading a team, managing data and incidents, and my great differential is my ability to react calmly and effectively to unexpected or high-pressure situations, always seeking to make assertive strategic decisions.
 
 <br> 
 
-<div align="center">
-  
-   <a href="https://github.com/DanielDW23/DanielDW23/files/11691121/CURRICULUM_DANIEL_LOPEZ_GARCIA_en.pdf"><img alt="Icon download resume" src="https://i.ibb.co/q5pscPS/cv-1-TEXT-EN.png" alt="cv-1-TEXT-EN" /></a>
-  
-</div>
+- 📫 How to reach me: https://www.linkedin.com/in/fatima-patricia-garcia/
+
+<br> 
+
 
 ## STACK
 <br>
@@ -37,27 +34,30 @@ Welcome to my GitHub profile.
  </p>
 
    <p align="center">
- <img src="https://github.com/DanielDW23/DanielDW23/assets/126791645/a484c361-2d96-4991-8116-4fda1b1e3f62" alt="docker" width="60" height="60"/>
+ <img src="https://github.com/pgmascarini/pgmascarini/assets/74653483/19e4e6fc-0ab1-4a29-90ca-f42c95a30359" alt="docker" width="60" height="60"/>
   </p>
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=32&pause=1000&color=4AAAFB&center=true&width=950&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22;%22Coding+is+10%25+writing+code+and+90%25+understanding+why+it+doesn't+work.%22;%22The+best+programmers+aren't+always+the+best+at+coding%2C;+they're+the+ones+who+work+together+best.%22)](https://git.io/typing-svg)
- 
- ## CONTACT
-📫 You can contact me through
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/daniel-lg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
- 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:dlopezg4@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
 
 ## STATS
+<br>
 <p align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDW23&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDW23&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-  
-</p>
- 
- 
+
+  <br>
+
+
+<div align="center">
+  <a href="https://github.com/Behbiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Behbiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behbiz&layout=compact&langs_count=16&theme=dracula&include_all_commits=truecount_private=true"/>
+</div>
+
+
+
+ <div style="display: inline_block"><br>
+
+
+
 

@@ -1,6 +1,6 @@
 ### Hi, I'm Fatima Patricia 👋
 
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/pgmascarini/pgmascarini/commit/1cee797944df4ad51258d2b0feb82f94bb905d27)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/pgmascarini/pgmascarini/README.es.md)
 
 
 #### Full-Stack Developer
